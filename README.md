@@ -27,6 +27,6 @@ Também: [Statecraft Cyber](https://statecraftcyber.vercel.app) (threat intellig
 - **Segurança como código:** o que é configuração vira código revisável, com testes e CI.
 - **IA com revisão:** uso Claude Code e Codex com specs e revisão cruzada; as decisões e a metodologia são minhas.
 
-## Ferramentas do dia a dia
-Microsoft Defender XDR · Sentinel · Splunk · Google SecOps · Wazuh · Entra ID · Active Directory · CyberArk ·
-KQL · Python · PowerShell · Terraform · GitHub Actions · React/TypeScript
+## Ferramentas
+- **No trabalho:** Microsoft Defender XDR, Sentinel, Splunk, Google SecOps, Wazuh, Entra ID, Active Directory, CyberArk, KQL, Python, PowerShell
+- **Nos projetos:** Terraform, GitHub Actions, Checkov, emulador Kusto, React e TypeScript
