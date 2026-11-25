@@ -28,5 +28,5 @@ Também: [Statecraft Cyber](https://statecraftcyber.vercel.app) (threat intellig
 - **IA com revisão:** uso Claude Code e Codex com specs e revisão cruzada; as decisões e a metodologia são minhas.
 
 ## Ferramentas
-- **No trabalho:** Microsoft Defender XDR, Sentinel, Splunk, Google SecOps, Wazuh, Entra ID, Active Directory, CyberArk, KQL, Python, PowerShell
+- **No trabalho:** Microsoft Defender XDR, Splunk, Google SecOps, Wazuh, Graylog, Entra ID, Active Directory, CyberArk, KQL, Python, PowerShell
 - **Nos projetos:** Terraform, GitHub Actions, Checkov, emulador Kusto, React e TypeScript
